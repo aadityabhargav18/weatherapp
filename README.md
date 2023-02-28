@@ -1,9 +1,9 @@
-# Weather Application 🌍
+# Weather Application 🌤
 
 
 It is a simple Weather Application made by using React JS ⚛️.
 
-This application gives all the weather-related 🌤 information of a country.
+This application gives all the weather-related information of a country 🌍.
 
 ## Demo - Deployed over Github Pages 📝
 https://aadityabhargav18.github.io/weatherapp/
@@ -13,7 +13,7 @@ https://aadityabhargav18.github.io/weatherapp/
 ![Screenshot (392)](https://user-images.githubusercontent.com/67166208/221845518-38b8cfe1-1f70-4bb0-a05c-db8360d9300c.png)
 
 ## Tech Stack 💻
-**Client:** React
+**Client:** React ⚛️
 
 ## API's used 🔑
 https://openweathermap.org/
